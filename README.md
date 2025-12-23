@@ -1,2 +1,2 @@
 # Proyectos-Desarrollados
-Los Proyectos que he desarrollado en mi aprendizaje como Analista de Datos
+Durante mi proceso de aprendizaje tuve la oportunidad de desarrollar proyecto que fueron fortaleciento los conocimientos que iba adquiriendo
